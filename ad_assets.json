@@ -1,12 +1,22 @@
 {
   "apps": [
     {
-      "app_interstitial_url": "@drawable/interstitial",
+      "app_interstitial_url": "https://raw.githubusercontent.com/abkoradiya/AndroidDemo/master/ads/1.png",
       "app_uri": "https://www.lazygeniouz.com",
       "app_adType": "interstitial"
     },
     {
-      "app_interstitial_url": "@drawable/interstitial_one",
+      "app_interstitial_url": "https://raw.githubusercontent.com/abkoradiya/AndroidDemo/master/ads/2.png",
+      "app_uri": "https://www.lazygeniouz.com",
+      "app_adType": "interstitial"
+    },
+    {
+      "app_interstitial_url": "https://raw.githubusercontent.com/abkoradiya/AndroidDemo/master/ads/3.png",
+      "app_uri": "https://www.lazygeniouz.com",
+      "app_adType": "interstitial"
+    },
+    {
+      "app_interstitial_url": "https://raw.githubusercontent.com/abkoradiya/AndroidDemo/master/ads/4.png",
       "app_uri": "https://www.lazygeniouz.com",
       "app_adType": "interstitial"
     }
